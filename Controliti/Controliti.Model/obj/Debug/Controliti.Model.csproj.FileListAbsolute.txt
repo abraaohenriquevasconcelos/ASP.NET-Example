@@ -1,0 +1,4 @@
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.Model\bin\Debug\Controliti.Model.dll
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.Model\bin\Debug\Controliti.Model.pdb
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.Model\obj\Debug\Controliti.Model.dll
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.Model\obj\Debug\Controliti.Model.pdb

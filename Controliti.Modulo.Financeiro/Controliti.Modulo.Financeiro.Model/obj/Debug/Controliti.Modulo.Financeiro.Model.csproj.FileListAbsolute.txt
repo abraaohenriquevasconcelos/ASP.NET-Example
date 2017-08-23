@@ -1,0 +1,5 @@
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti.Modulo.Financeiro\Controliti.Modulo.Financeiro.Model\bin\Debug\Controliti.Modulo.Financeiro.Model.dll
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti.Modulo.Financeiro\Controliti.Modulo.Financeiro.Model\bin\Debug\Controliti.Modulo.Financeiro.Model.pdb
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti.Modulo.Financeiro\Controliti.Modulo.Financeiro.Model\obj\Debug\Controliti.Modulo.Financeiro.Model.csprojResolveAssemblyReference.cache
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti.Modulo.Financeiro\Controliti.Modulo.Financeiro.Model\obj\Debug\Controliti.Modulo.Financeiro.Model.dll
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti.Modulo.Financeiro\Controliti.Modulo.Financeiro.Model\obj\Debug\Controliti.Modulo.Financeiro.Model.pdb

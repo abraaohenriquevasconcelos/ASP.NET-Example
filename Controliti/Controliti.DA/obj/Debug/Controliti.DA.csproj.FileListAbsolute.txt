@@ -1,0 +1,5 @@
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.DA\bin\Debug\Controliti.DA.dll
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.DA\bin\Debug\Controliti.DA.pdb
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.DA\obj\Debug\Controliti.DA.csprojResolveAssemblyReference.cache
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.DA\obj\Debug\Controliti.DA.dll
+C:\Users\Abraao\Desktop\ASPNET_AVANCADO\Controliti\Controliti.DA\obj\Debug\Controliti.DA.pdb
